@@ -1,0 +1,89 @@
+
+
+/* Color Theme Swatches in Hex */
+.Arquitetura-1-hex { color: #384001; }
+.Arquitetura-2-hex { color: #D5D95B; }
+.Arquitetura-3-hex { color: #8C603A; }
+.Arquitetura-4-hex { color: #A6998F; }
+.Arquitetura-5-hex { color: #59321C; }
+
+
+.mybody{
+   background-color: #59321C;
+   overflow-y: hidden;
+   
+}
+
+.navbar{
+    background-color: #384001;
+}
+.navfont, .navfont:hover{
+    color: white;
+}
+
+.navfont:hover{
+    border-radius: 20%;
+    background-color: #8C603A;
+    
+    
+}
+
+.abas{
+    display: flex;
+    position: relative;
+    right: 30px;
+    justify-content: center;
+    text-align: center;
+}
+
+
+
+.overlay{
+    position: absolute;
+    
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.imgmain{
+
+    width: 100%;
+    height: 500px;
+    
+       
+}
+
+.card{
+    
+    position: relative;
+    bottom: 240px;
+   width: 100%; 
+  
+    
+}
+
+.garden{
+    height: 600px;
+    width: 100%;
+}
+
+.card-body{
+color: white;
+background-color: #384001;
+}
+
+.qmt{
+    display: flex;
+    color: black;
+    
+    justify-content: center;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.contato{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
